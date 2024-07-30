@@ -8,15 +8,17 @@ The poster presents Netflix's financial situation in the market, focusing on the
 - Maksymilian Tabian.
 
 ## Used technologies
-- Python
-- pandas, numpy, geopandas
-- dash
-- plotly
- 
+- R (dplyr, ggplot, tidyr, maps, mapdata)
+- Canva
 
 ## Data sources
+- [Dataset 1](https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks)
+- [Dataset 2](https://worldpopulationreview.com/country-rankings/netflix-users-by-country)
+- [Dataset 3](https://ir.aboutamazon.com/overview/default.aspx)
+- [Dataset 4](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Dataset 5](https://thewaltdisneycompany.com/)
+- [Dataset 6](https://ir.corporate.discovery.com/investor-relations/default.aspx)
 
 ## Final effect
 
-
-
+![poster](Cholewinski_Szymanski_Tabian.png)
