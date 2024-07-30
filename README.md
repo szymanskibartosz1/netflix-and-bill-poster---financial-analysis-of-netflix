@@ -12,5 +12,5 @@ Data sources:
 - https://thewaltdisneycompany.com/
 - https://ir.corporate.discovery.com/investor-relations/default.aspx
 
-![poster](Cholewinski_Szymanski_Tabian.png.png)
+![poster](Cholewinski_Szymanski_Tabian.png)
 
