@@ -5,12 +5,12 @@ The poster presents Netflix's financial situation in the market, focusing on the
 Authors: Kacper Cholewiński, Bartosz Szymański, Maksymilian Tabian.
 
 Data sources:
-- https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks
-- https://worldpopulationreview.com/country-rankings/netflix-users-by-country
-- https://ir.aboutamazon.com/overview/default.aspx
-- https://ir.netflix.net/ir-overview/profile/default.aspx
-- https://thewaltdisneycompany.com/
-- https://ir.corporate.discovery.com/investor-relations/default.aspx
+- [Dataset 1](https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks)
+- [Dataset 2](https://worldpopulationreview.com/country-rankings/netflix-users-by-country)
+- [Dataset 3](https://ir.aboutamazon.com/overview/default.aspx)
+- [Dataset 4](https://ir.netflix.net/ir-overview/profile/default.aspx)
+- [Dataset 5](https://thewaltdisneycompany.com/)
+- [Dataset 6](https://ir.corporate.discovery.com/investor-relations/default.aspx)
 
 ![poster](Cholewinski_Szymanski_Tabian.png)
 
