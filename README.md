@@ -7,6 +7,10 @@ The poster presents Netflix's financial situation in the market, focusing on the
 - Bartosz Szymański
 - Maksymilian Tabian.
 
+## Used technologies
+- R (dplyr, ggplot, tidyr, maps, mapdata)
+- Canva
+
 ## Data sources
 - [Dataset 1](https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks)
 - [Dataset 2](https://worldpopulationreview.com/country-rankings/netflix-users-by-country)
